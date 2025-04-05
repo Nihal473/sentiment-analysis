@@ -20,7 +20,7 @@ This is a **Sentiment Analysis** project using the **Naive Bayes** algorithm to 
 
 ### Dataset:
 
-The project uses the **IMDB movie reviews dataset**, which contains 50,000 labeled reviews (positive and negative). You can download the dataset directly from the [IMDB dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+The project uses the **IMDB movie reviews dataset**, which contains 50,000 labeled reviews (positive and negative). You can download the dataset directly from the [IMDB dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 
 ### How to Run:
 
@@ -53,3 +53,7 @@ after running the code you can see the stats in the terminal and
 a window will pop up with all the stats of the model and after you close the window you will be prompted to enter a movie review:
 
 **Input**: `Enter a movie review: This movie was amazing! The plot was great and the acting was top-notch.`**Output**: `The sentiment of your review is: Positive`
+
+
+
+i didn't upload the csv file because that was too big. make sure you download that from the provided link before using the code
