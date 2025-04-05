@@ -72,6 +72,7 @@ Copy
 Edit
 python sentiment_analysis.py
 Example Input/Output:
+after running the code you can see the stats in the terminal and
+a window will pop up with all the stats of the model and after you close the window you will be prompted to enter a movie review:
 Input: Enter a movie review: This movie was amazing! The plot was great and the acting was top-notch. Output: The sentiment of your review is: Positive
 
-After the sentiment prediction, a bar chart displaying the model's accuracy will be shown.
