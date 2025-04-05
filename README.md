@@ -27,7 +27,7 @@ The project uses the **IMDB movie reviews dataset**, which contains 50,000 label
 1. Clone the repository to your local machine:
     
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-naive-bayes.git
+    git clone https://github.com/Nihal473/sentiment-analysis-naive-bayes.git
     
     ```
     
